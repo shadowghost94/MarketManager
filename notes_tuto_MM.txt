@@ -1,0 +1,1 @@
+=>django-admin startproject NomProjet . => le point de la fin permet d'éviter la répétition du de répertoire
